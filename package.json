@@ -1,0 +1,25 @@
+{
+  "name": "metaverse-checknplay-expander",
+  "version": "1.0.0",
+  "description": "Expand your experience with additional features and tools for exploration and interaction.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ir0nm4n42/metaverse-checknplay-expander"
+  },
+  "author": "ir0nm4n42",
+  "license": "MIT",
+  "dependencies": {
+    "metaverse-checknplay": "1.0.0",
+    "metaverse-checknplay-expander": "1.0.0",
+    "underscore": "1.0.0",
+    "passport": "1.0.0",
+    "moment": "1.0.0",
+    "axios": "1.0.0",
+    "validator": "1.0.0",
+    "react-dom": "1.0.0"
+  }
+}
